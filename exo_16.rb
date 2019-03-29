@@ -1,4 +1,4 @@
-puts "Bonjour utilisateur, quelle est ton année de naissance?"
+puts "Salut toi! T'es né quand?"
 print ">"
 
 user_birthYear = gets.chomp.to_i
